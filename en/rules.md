@@ -16,6 +16,7 @@ old_id: 9
 6. **Inappropeate usernames** will be automatically changed and you may be punished with a silence.
 7. **Don't abuse our patience;** while we try to best satisfy our users' need, if you repeatedly infringe our rules or abuse services provided by the staff (e.g. appealing and name changing) (with particular regard to users who also disrespect our staff's efforts, passively or actively, or are otherwise toxic within the community), we will first warn you, and if it comes to it we will offer an ultimatum. If you refuse or otherwise don't change your behaviour, we'll have no choice but to ban you.
 8. **Impersonation** is prohibited and doing so may read to a punishment which will be decided on your motives.
+9. Naming yourself *realm*/*reallm* will result in a perm ban. (this is to mess with someone narashini and dexitry know but we are enforcing this rule.)
 
 <h3><i class="user icon"></i> Profile rules</h3>
 
